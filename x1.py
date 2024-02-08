@@ -1,0 +1,5 @@
+tp = (1,2,3,4,6,5)
+a = list(tp)
+x = int(input())
+a[x] = int(input())
+print(a)
